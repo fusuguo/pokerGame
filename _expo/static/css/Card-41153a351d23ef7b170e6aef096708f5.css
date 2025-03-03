@@ -1,0 +1,1 @@
+.card{margin:5px;transition:transform .2s;display:inline-block;position:relative}.card-canvas{background-color:#fff;border:1px solid #ddd;border-radius:10px;box-shadow:0 2px 5px #0003}.card.draggable{cursor:grab}.card.draggable:active{cursor:grabbing;transform:scale(1.05)}
